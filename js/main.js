@@ -1,4 +1,4 @@
-import reset from '../css/reset.scss'
+import bootstrap from '../node_modules/bootstrap/scss/bootstrap.scss'
 import styles from '../css/main.scss'
 
-import Topic from './topic.jsx'
+import Explore from './explore.jsx'
