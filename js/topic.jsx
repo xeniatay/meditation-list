@@ -1,7 +1,6 @@
 import _ from 'underscore';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import $ from 'jquery';
 import Subtopic from './subtopic.jsx';
 
 export default class Topic extends React.Component {

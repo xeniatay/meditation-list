@@ -2,9 +2,7 @@
  * Modal based off http://codepen.io/chriscoyier/pen/MeJWoM
  */
 
-import $ from 'jquery';
-import _ from 'underscore';
-import ClassNames from 'classnames'
+import '../css/modal.scss'
 import React from 'react';
 import ReactDOM from 'react-dom';
 
